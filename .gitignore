@@ -1,13 +1,17 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+#temporary
+*.tmp
+*.temp
+*.smp
+Temp/
+
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
-
-#temporary
 
 # Precompiled Headers
 *.gch
