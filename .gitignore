@@ -7,6 +7,9 @@
 *.smp
 Temp/
 
+#git add 
+*.git commit -m "docs: adiciona rascunho da mecânica de pulo"
+
 # Compiled Object files
 *.slo
 *.lo
